@@ -3,9 +3,11 @@
    <h3 align="center">Nací en un desguace y me divertía rompiendo cosas.<br>Años después, me dedico a construir cosas útiles o divertidas. #Desarrollo #Videojuegos</h3>
 </p>
 
-Podeis seguirme en:
+<h3>Enlaces</h3>
 
-* [Linkedin](https://www.linkedin.com/in/episuarez/)
-* [Twitter](https://twitter.com/episuarez)
-* [Twitch](https://www.twitch.tv/episuarez)
-* [Patreon](https://www.patreon.com/episuarez)
+Servicio|URL
+--|--
+Linkedin|https://www.linkedin.com/in/episuarez
+Twitter|https://twitter.com/episuarez
+Twitch|https://www.twitch.tv/episuarez
+Patreon|https://www.patreon.com/episuarez
