@@ -17,6 +17,7 @@ Modelos 4|Modelo 3|2ª presentación (La sexta)|1ª presentación (La sexta)
 
 Servicio|URL
 --|--
+Discord|https://discord.gg/RRrByksc
 Linkedin|https://www.linkedin.com/in/episuarez
 Twitter|https://twitter.com/episuarez
 Twitch|https://www.twitch.tv/episuarez
