@@ -1,5 +1,5 @@
 <p align="center">
-   <img align="center" width="250" src="https://github.com/episuarez/episuarez/blob/25e22b070582a29aa1dabb1c1c221d63851fd7c9/logo72.png" />
+   <img align="center" width="250" src="https://github.com/episuarez/episuarez/blob/dbc60b40b89440ceb224678ff1ec1477e89d746b/logo1500_white.png" />
    <h3 align="center">Nací en un desguace y me divertía rompiendo cosas.<br>Años después, me dedico a construir cosas útiles o divertidas. #Desarrollo #Videojuegos</h3>
 </p>
 
