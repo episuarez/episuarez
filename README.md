@@ -17,9 +17,10 @@ Modelos 4|Modelo 3|2ª presentación (La sexta)|1ª presentación (La sexta)
 
 Servicio|URL
 --|--
-Discord|https://discord.gg/hvSNTQjpem
-Linkedin|https://www.linkedin.com/in/episuarez
-Twitter|https://twitter.com/episuarez
-Twitch|https://www.twitch.tv/episuarez
-Patreon|https://www.patreon.com/episuarez
-Youtube|https://www.youtube.com/c/Owaristudios
+Discord|<https://discord.gg/hvSNTQjpem>
+Linkedin|<https://www.linkedin.com/in/episuarez>
+Twitter|<https://twitter.com/episuarez>
+Twitch|<https://www.twitch.tv/episuarez>
+Patreon|<https://www.patreon.com/episuarez>
+Youtube|<https://www.youtube.com/channel/UCBVgB6oZq5WqWh1NJSSWGZw>
+Youtube|<https://www.youtube.com/c/Owaristudios>
