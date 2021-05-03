@@ -9,6 +9,7 @@
 * Desarrollo software libre - https://github.com/episuarez
 * Profesor de informática
 * Imparto tutorías o asesoramiento - https://calendly.com/episuarez
+* Publico un boletín diario de tecnología, privacidad y videojuegos - https://www.getrevue.co/profile/episuarez
 * Escribiendo libros de programación... (En progreso)
 
 <h2>¿Qué proyectos tengo entre manos?</h3>
