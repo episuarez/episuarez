@@ -3,6 +3,14 @@
    <p align="center">Nací en un desguace y me divertía rompiendo cosas.<br>Años después, me dedico a construir cosas útiles o divertidas. #Desarrollo #Videojuegos</p>
 </p>
 
+<h1>¿Quién soy?</h1>
+
+* Epifanio Suárez Martínez
+* Desarrollador, Autónomo y Director de Owari Studios
+* Madrid, España
+* Correo: <a href="mailto:episuarez@pm.me">episuarez@pm.me</a>
+* Páginas web: <a href="https://episuarez.dev">episuarez.dev</a> - <a href="https://owaristudios.com">owaristudios.com</a>
+
 <h2>¿Qué hago?</h2>
 
 * Director de Owari Studios (Desarrollo y Videojuegos)
@@ -11,6 +19,10 @@
 * Imparto tutorías o asesoramiento - https://calendly.com/episuarez
 * Publico un boletín diario de tecnología, privacidad y videojuegos - https://www.getrevue.co/profile/episuarez
 * Escribiendo libros de programación... (En progreso)
+
+<h2>Cursos que imparto</h2>
+
+* <a href="https://episuarez.dev/cursos/curso_python.html">Curso de python</a> - ¡Todavía hay plazas!
 
 <h2>¿Qué proyectos tengo entre manos?</h3>
 
