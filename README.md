@@ -1,13 +1,13 @@
 <p align="center">
    <img align="center" width="256" src="https://github.com/episuarez/episuarez/blob/dbc60b40b89440ceb224678ff1ec1477e89d746b/logo1500_white.png" />
    <p align="center">Nací en un desguace y me divertía rompiendo cosas.<br>Años después, me dedico a construir cosas útiles o divertidas. #Desarrollo #Videojuegos</p>
+
+   <p align="center"><a href="https://twitter.com/episuarez" target="_blank">Twitter</a> - <a href="https://www.linkedin.com/in/episuarez" target="_blank">Linkedin</a> - <a href="https://www.twitch.tv/episuarez" target="_blank">Twitch</a> - <a href="https://www.youtube.com/channel/UCBVgB6oZq5WqWh1NJSSWGZw" target="_blank">Youtube</a></p>
 </p>
 
-<h1>¿Quién soy?</h1>
+<h1>Epifanio Suárez Martínez</h1>
 
-* Epifanio Suárez Martínez
 * Desarrollador, Autónomo y Director de Owari Studios
-* Madrid, España
 * Correo: <a href="mailto:episuarez@pm.me">episuarez@pm.me</a>
 * Páginas web: <a href="https://episuarez.dev">episuarez.dev</a> - <a href="https://owaristudios.com">owaristudios.com</a>
 
@@ -17,12 +17,23 @@
 * Desarrollo software libre - https://github.com/episuarez
 * Profesor de informática
 * Imparto tutorías o asesoramiento - https://calendly.com/episuarez
-* Publico un boletín diario de tecnología, privacidad y videojuegos - https://www.getrevue.co/profile/episuarez
+* Publico un informativo de tecnología - https://www.youtube.com/watch?v=MZkmERtt7FA&list=PL1llB904ah661Lg6utmxMhXEANB5UFPxf
 * Escribiendo libros de programación... (En progreso)
+
+<h2>¿Cómo puedes apoyar mi trabajo?</h2>
+
+Principalmente compartiendo mis desarrollos y/o comunicaciones por las redes sociales, para poder hacer llegar mi trabajo a quien le pueda interesar.
+
+Y si quieres apoyar mi trabajo economicamente, https://www.buymeacoffee.com/episuarez
 
 <h2>Cursos que imparto</h2>
 
 * <a href="https://episuarez.dev/cursos/curso_python.html">Curso de python</a> - ¡Todavía hay plazas!
+
+<h2>Cursos Twitch</h2>
+
+* Curso de Python emitido en Twitch - https://github.com/episuarez/curso_twitch_python
+* Curso de Rust emitido en Twitch - https://github.com/episuarez/curso_twitch_rust
 
 <h2>¿Qué proyectos tengo entre manos?</h3>
 
@@ -31,9 +42,8 @@
 * Searotes - https://github.com/OwariStudios/Searotes
 * Contabimo - https://github.com/OwariStudios/contabimo
 
-<h2>Cursos y códigos de ejemplo</h2>
+<h2>Proyectos demo</h2>
 
-* Curso de Python emitido en Twitch - https://github.com/episuarez/curso_twitch_python
 * Proyecto de naves en consola (Python) - https://github.com/episuarez/Naves
 * Proyecto de ahorcado en consola (Python) - https://github.com/episuarez/ahorcado
 * Proyecto de snake en consola (Python) - https://github.com/episuarez/Snake
@@ -48,14 +58,4 @@ Modelos 4|Modelo 3|2ª presentación (La sexta)|1ª presentación (La sexta)
 --|--|--|--
 [![COVID19](https://img.youtube.com/vi/hqve1-UTQY4/maxresdefault.jpg)](https://youtu.be/hqve1-UTQY4)|[![COVID19](https://img.youtube.com/vi/wyD-g1flgoA/maxresdefault.jpg)](https://youtu.be/wyD-g1flgoA)|[![COVID19](https://img.youtube.com/vi/CBsTDs4ERH0/maxresdefault.jpg)](https://youtu.be/CBsTDs4ERH0)|[![COVID19](https://img.youtube.com/vi/Kj9lTZIBPw0/maxresdefault.jpg)](https://youtu.be/Kj9lTZIBPw0)
 
-<h2>¿Cómo puedes apoyar mi trabajo?</h2>
-
-Principalmente compartiendo mis desarrollos y/o comunicaciones por las redes sociales, para poder hacer llegar mi trabajo a quien le pueda interesar.
-
-Y, en segundo lugar, [en Patreon](https://www.patreon.com/episuarez), donde tienes varias recompensas por colaborar conmigo.
-
-<h2>Redes sociales</h2>
-
-Puedes seguirme en cualquiera de mis redes sociales.
-
-[Twitter](https://twitter.com/episuarez) - [Linkedin](https://www.linkedin.com/in/episuarez) - [Twitch](https://www.twitch.tv/episuarez) - [Youtube](https://www.youtube.com/channel/UCBVgB6oZq5WqWh1NJSSWGZw) - [Patreon](https://www.patreon.com/episuarez) - [Discord](https://discord.gg/hvSNTQjpem)
+<p align="center"><a href="https://twitter.com/episuarez" target="_blank">Twitter</a> - <a href="https://www.linkedin.com/in/episuarez" target="_blank">Linkedin</a> - <a href="https://www.twitch.tv/episuarez" target="_blank">Twitch</a> - <a href="https://www.youtube.com/channel/UCBVgB6oZq5WqWh1NJSSWGZw" target="_blank">Youtube</a></p>
