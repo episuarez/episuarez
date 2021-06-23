@@ -2,7 +2,7 @@
    <img align="center" width="256" src="https://github.com/episuarez/episuarez/blob/dbc60b40b89440ceb224678ff1ec1477e89d746b/logo1500_white.png" />
    <p align="center">Nací en un desguace y me divertía rompiendo cosas.<br>Años después, me dedico a construir cosas útiles o divertidas. #Desarrollo #Videojuegos</p>
 
-   <p align="center"><a href="https://twitter.com/episuarez" target="_blank">Twitter</a> - <a href="https://www.linkedin.com/in/episuarez" target="_blank">Linkedin</a> - <a href="https://www.twitch.tv/episuarez" target="_blank">Twitch</a> - <a href="https://www.youtube.com/channel/UCBVgB6oZq5WqWh1NJSSWGZw" target="_blank">Youtube</a></p>
+   <p align="center"><a href="https://twitter.com/episuarez" target="_blank">Twitter</a> - <a href="https://www.linkedin.com/in/episuarez" target="_blank">Linkedin</a> - <a href="https://www.twitch.tv/episuarez" target="_blank">Twitch</a> - <a href="https://www.youtube.com/channel/UCBVgB6oZq5WqWh1NJSSWGZw" target="_blank">Youtube</a> - <a href="https://www.buymeacoffee.com/episuarez">Buymeacoffe</a></p>
 </p>
 
 <h1>Epifanio Suárez Martínez</h1>
@@ -58,4 +58,4 @@ Modelos 4|Modelo 3|2ª presentación (La sexta)|1ª presentación (La sexta)
 --|--|--|--
 [![COVID19](https://img.youtube.com/vi/hqve1-UTQY4/maxresdefault.jpg)](https://youtu.be/hqve1-UTQY4)|[![COVID19](https://img.youtube.com/vi/wyD-g1flgoA/maxresdefault.jpg)](https://youtu.be/wyD-g1flgoA)|[![COVID19](https://img.youtube.com/vi/CBsTDs4ERH0/maxresdefault.jpg)](https://youtu.be/CBsTDs4ERH0)|[![COVID19](https://img.youtube.com/vi/Kj9lTZIBPw0/maxresdefault.jpg)](https://youtu.be/Kj9lTZIBPw0)
 
-<p align="center"><a href="https://twitter.com/episuarez" target="_blank">Twitter</a> - <a href="https://www.linkedin.com/in/episuarez" target="_blank">Linkedin</a> - <a href="https://www.twitch.tv/episuarez" target="_blank">Twitch</a> - <a href="https://www.youtube.com/channel/UCBVgB6oZq5WqWh1NJSSWGZw" target="_blank">Youtube</a></p>
+<p align="center"><a href="https://twitter.com/episuarez" target="_blank">Twitter</a> - <a href="https://www.linkedin.com/in/episuarez" target="_blank">Linkedin</a> - <a href="https://www.twitch.tv/episuarez" target="_blank">Twitch</a> - <a href="https://www.youtube.com/channel/UCBVgB6oZq5WqWh1NJSSWGZw" target="_blank">Youtube</a> - <a href="https://www.buymeacoffee.com/episuarez">Buymeacoffe</a></p>
