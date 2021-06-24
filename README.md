@@ -24,7 +24,8 @@
 
 Principalmente compartiendo mis desarrollos y/o comunicaciones por las redes sociales, para poder hacer llegar mi trabajo a quien le pueda interesar.
 
-Y si quieres apoyar mi trabajo economicamente, https://www.buymeacoffee.com/episuarez
+Y si quieres apoyar mi trabajo economicamente.
+<p align="center"><a href="https://www.buymeacoffee.com/episuarez"><img width="512" src="https://img.buymeacoffee.com/api/?url=aHR0cHM6Ly9pbWcuYnV5bWVhY29mZmVlLmNvbS9hcGkvP3VybD1hSFIwY0hNNkx5OWpaRzR1WW5WNWJXVmhZMjltWm1WbExtTnZiUzkxY0d4dllXUnpMM0J5YjJacGJHVmZjR2xqZEhWeVpYTXZNakF5TVM4d05pODFObUk1WWpaall6VmhZMkZqT1dFME5URXpPVEl4TkdJeU56TmtNVGhoTVM1d2JtYz0mc2l6ZT0zMDAmbmFtZT1lcGlzdWFyZXo=&creator=episuarez&is_creating=impartiendo%20cursos%20de%20programaci%C3%B3n,%20y%20desarrollando%20software%20libre.&design_code=1&design_color=%235F7FFF&slug=episuarez" /></a></p>
 
 <h2>Cursos que imparto</h2>
 
