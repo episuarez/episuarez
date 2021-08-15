@@ -4,8 +4,14 @@
       <img alt="logo" src="img\logos\logo.png" width="256">
    </picture>
 
-   <h1 align="center">Hi 👋, I'm Epifanio Suárez Martínez</h1>
-   <h3 align="center">I was born in a junkyard and I had fun breaking things. Years later, I'm building useful or fun things.</h3>
+   <h1>Hi 👋, I'm Epifanio Suárez Martínez</h1>
+   <p>I am currently developing all kinds of projects, I am interested in complicated and interesting projects!<br>I dedicate part of my work to teaching so that the next generations can go further. And another part in creating tools that are useful.</p>
+
+   <br>
+   <h2>How can I help? :)</h2>
+   <br>
+
+   <p>You can contact me at the links below.</>
 
    <br>
 
@@ -42,7 +48,7 @@
    Email: <a href="mailto:episuarez@pm.me">episuarez@pm.me</a>
 
    Personal page: <a href="https://episuarez.dev">https://episuarez.dev</a>
-   
+
    Company website: <a href="https://owaristudios.com">https://owaristudios.com</a>
 
 </div>
