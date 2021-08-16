@@ -17,7 +17,7 @@
       <a href="https://twitter.com/episuarez" target="_blank" title="¡Sigueme en Twitter!" rel="noreferrer noopener">
          <img alt="Twitter" width="64px" style="fill: #FFF;" src="img\icons\twitter.svg">
       </a>
-      <a href="https://www.youtube.com/channel/UCBVgB6oZq5WqWh1NJSSWGZw" target="_blank" title="¡Visualiza mis videos!"
+      <a href="https://www.youtube.com/channel/UCBVgB6oZq5WqWh1NJSSWGZw?sub_confirmation=1" target="_blank" title="¡Visualiza mis videos!"
          rel="noreferrer noopener">
          <img alt="YouTube" width="64px" src="img\icons\youtube.svg">
       </a>
